@@ -1,4 +1,4 @@
-import { BrowserRouter } from "react-router-dom"
+import { BrowserRouter, Route, Routes } from "react-router-dom"
 import SciPub from "./sciPub/sciPub"
 
 export default function App() {
@@ -6,7 +6,9 @@ export default function App() {
     // <SciPub />
 
     <BrowserRouter>
-      
+      <Routes>
+        <Route path="/sciPub" element={ <SciPub />}></Route>
+      </Routes>
     </BrowserRouter>
 
   )
