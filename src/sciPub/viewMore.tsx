@@ -41,7 +41,7 @@ const viewMore = () => {
         </div>
 
         <div className="">
-            <img src="https://images.wallpaperscraft.com/image/single/nissan_gtr_supercar_121502_300x188.jpg" alt="" />
+            <img src="https://images.wallpaperscraft.com/image/single/nissan_gtr_supercar_121502_300x188.jpg" alt="" className="rounded w-full"/>
         </div>
     </div>
   )
