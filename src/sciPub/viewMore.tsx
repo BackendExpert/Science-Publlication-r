@@ -6,7 +6,10 @@ const viewMore = () => {
         <p className="">The role of wildlife trade in transmitting emerging diseases</p>
         <div className="md:grid grid-cols-2 gap-4">
             <div className="">
-                <img src="" alt="" />
+                <img src="https://images.wallpaperscraft.com/image/single/car_red_sports_car_142598_300x168.jpg" alt="" className="rounded w-full"/>
+            </div>
+            <div className="">
+                <p className="">Dr. Shalini Rajakaruna</p>
             </div>
         </div>
     </div>
