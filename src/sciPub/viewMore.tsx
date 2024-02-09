@@ -63,7 +63,9 @@ const viewMore = () => {
             Qui corporis tenetur nobis dicta dolorem! Quis culpa reiciendis natus ab, labore maiores expedita quia itaque repellendus cupiditate harum adipisci assumenda iure dolorem. Dolores quae temporibus eveniet voluptatibus molestiae officia.
             Aliquid id rem ex temporibus tempore obcaecati, velit maxime quas, laboriosam, odit porro nemo incidunt architecto cum beatae? Optio, tenetur numquam! Architecto, perspiciatis officia. Aliquam quos non repudiandae voluptates vel.
             Quia voluptas odio in ratione voluptatum molestias incidunt officiis voluptate! Exercitationem ea iste eos voluptates, laborum magni blanditiis facilis nihil quibusdam, distinctio ipsam corrupti non veniam eum excepturi! Eligendi, dolores!</p>
-
+        </div>
+        <div className="">
+            <img src="https://images.wallpaperscraft.com/image/single/bmw_car_front_view_164813_300x188.jpg" alt="" className="rounded w-3/4 mx-40 h-3/6 my-8"/>
         </div>
     </div>
   )
