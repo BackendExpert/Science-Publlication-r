@@ -10,6 +10,7 @@ const viewMore = () => {
             </div>
             <div className="">
                 <p className="">Dr. Shalini Rajakaruna</p>
+                <p className="">Published on Mon, 06/01/2020</p>
             </div>
         </div>
     </div>
