@@ -4,7 +4,7 @@ const sciPub = () => {
         <h1 className="">Recent Scientific Publication</h1>
         <div className="md:grid grid-3 gap-4">
             <div className="">
-                <img src="" alt="" className="" />
+                <img src="https://images.wallpaperscraft.com/image/single/bmw_m3_sports_94739_300x168.jpg" alt="" className="" />
             </div>
         </div>
     </div>
