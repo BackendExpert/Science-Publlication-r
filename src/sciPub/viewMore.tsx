@@ -10,8 +10,8 @@ const viewMore = () => {
             <div className="">
                 <img src="https://images.wallpaperscraft.com/image/single/bmw_car_bumper_191131_300x188.jpg" alt="" className="rounded w-full"/>
             </div>
-            <div className="">
-                <p className="">Dr. Shalini Rajakaruna</p>
+            <div className="md:mt-28">
+                <p className="font-semibold text-xl pb-2">Dr. Shalini Rajakaruna</p>
                 <p className="">Published on Mon, 06/01/2020</p>
             </div>
         </div>
