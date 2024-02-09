@@ -1,7 +1,9 @@
 
 const viewMore = () => {
   return (
-    <div>viewMore</div>
+    <div className="container mx-auto px-10">
+        Hi a;;
+    </div>
   )
 }
 
