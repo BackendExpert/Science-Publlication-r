@@ -2,8 +2,10 @@
 const viewMore = () => {
   return (
     <div className="container mx-auto px-10">
-        <p className="">Stop the next pandemic? Stop illegal wildlife trade!</p>
-        <p className="">The role of wildlife trade in transmitting emerging diseases</p>
+        <div className="text-center">
+            <p className="">Stop the next pandemic? Stop illegal wildlife trade!</p>
+            <p className="">The role of wildlife trade in transmitting emerging diseases</p>
+        </div>
         <div className="md:grid grid-cols-2 gap-4">
             <div className="">
                 <img src="https://images.wallpaperscraft.com/image/single/bmw_car_bumper_191131_300x188.jpg" alt="" className="rounded w-full"/>
