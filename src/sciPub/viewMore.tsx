@@ -43,7 +43,7 @@ const viewMore = () => {
         </div>
 
         <div className="">
-            <img src="https://images.wallpaperscraft.com/image/single/nissan_gtr_supercar_121502_300x188.jpg" alt="" className="rounded md:w-3/4 md:mx-40 h-3/6 md:my-8"/>
+            <img src="https://images.wallpaperscraft.com/image/single/nissan_gtr_supercar_121502_300x188.jpg" alt="" className="rounded md:w-3/4 md:mx-40 h-3/6 my-8"/>
         </div>
 
         <div className="">
@@ -67,7 +67,7 @@ const viewMore = () => {
             Quia voluptas odio in ratione voluptatum molestias incidunt officiis voluptate! Exercitationem ea iste eos voluptates, laborum magni blanditiis facilis nihil quibusdam, distinctio ipsam corrupti non veniam eum excepturi! Eligendi, dolores!</p>
         </div>
         <div className="">
-            <img src="https://images.wallpaperscraft.com/image/single/bmw_car_front_view_164813_300x188.jpg" alt="" className="rounded md:w-3/4 md:mx-40 h-3/6 md:my-8"/>
+            <img src="https://images.wallpaperscraft.com/image/single/bmw_car_front_view_164813_300x188.jpg" alt="" className="rounded md:w-3/4 md:mx-40 h-3/6 my-8"/>
         </div>
 
         <div className="mb-16">
