@@ -43,6 +43,15 @@ const viewMore = () => {
         <div className="">
             <img src="https://images.wallpaperscraft.com/image/single/nissan_gtr_supercar_121502_300x188.jpg" alt="" className="rounded w-3/4 mx-40 h-3/6 my-8"/>
         </div>
+
+        <div className="">
+            <p className="">Controversial origin fo COVID-19: From Bat to Pangolins to Humans ?</p>
+            <p className="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae placeat nulla laboriosam. Praesentium, quasi facilis ex, adipisci minima atque doloremque at id aliquam quis odit illo molestiae, quae est dolores!
+            Soluta aut, totam est blanditiis velit ex nulla adipisci esse eos aliquid quam natus fuga eveniet reprehenderit in ut eum, veniam veritatis repellendus saepe nihil ad molestiae! Id, similique recusandae.
+            Rem nemo eveniet ea perferendis molestiae quibusdam, quod, architecto incidunt ex libero, atque quae corrupti id illo recusandae temporibus voluptatem quaerat eos nam sed consectetur mollitia. Eligendi eaque laborum error!
+            Labore optio ad similique ullam placeat illo quibusdam veritatis impedit nemo maxime accusantium, voluptates eaque ea vitae doloribus possimus. Quo sunt eos obcaecati doloremque quasi reiciendis quaerat ea vero eaque.
+            Quaerat, autem facere eligendi provident soluta officiis cum voluptas minus quisquam reiciendis magnam culpa nam rem voluptate iste voluptates nostrum atque ut, sint tenetur dolorum totam voluptatem ipsum expedita? Sequi?</p>
+        </div>
     </div>
   )
 }
